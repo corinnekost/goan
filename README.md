@@ -103,7 +103,7 @@ git branch
 - Connecting our local repository to GitHub
 	- `git remote add origin https://github.com/corinnekost/goan.git`
 - Rename a branch to main
-	- `git branch -M main
+	- `git branch -M main`
 - Stage and commit changes
 	- `git add .`
 	- `git commit -m "initial commit"`
